@@ -1,0 +1,13 @@
+Sort-Object
+    [-Stable]
+    [-Descending]
+    [-Unique]
+    [-InputObject <PSObject>]
+    [[-Property] <Object[]>]
+    [-Culture <String>]
+    [-CaseSensitive]
+    [<CommonParameters>]
+    
+  
+ Example
+ | Sort-Object -Unique
