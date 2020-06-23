@@ -1,0 +1,4 @@
+#Command to get all cmdlets and  functions of the application.
+
+Get-Command -ListImported
+
